@@ -32,7 +32,7 @@
 
 <!-- 📝 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&center=true&vCenter=true&width=800&lines=Data+Science+%7C+Machine+Learning+%7C+Data + Analyst;Python+%E2%80%A2+SQL+%E2%80%A2+Power BI;Always+learning+%26+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Transforming+Data+into+Actionable+Insights;Always+Learning+and+Building+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ## 🚀 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,power bi,excel,mysql,sklearn,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql,sklearn,vscode,git,github" />
 </p>
 
 ---
