@@ -47,26 +47,24 @@
 
 ## 📂 Featured Projects  
 
-✨ **Stock Price Prediction (ML Project)**  
-🔹 Built a machine learning model to forecast stock prices.  
-🔹 Libraries used: *NumPy, Pandas, scikit-learn, Matplotlib*.  
-🔹 Evaluated with **RMSE & MAPE**.  
+### ✨ Stock Price Prediction (Machine Learning Project)
+- Built a machine learning model to forecast stock prices using historical market data.
+- Utilized **NumPy, Pandas, scikit-learn, and Matplotlib** for data preprocessing, modeling, and visualization.
+- Evaluated model performance using **RMSE** and **MAPE** metrics.
 
-✨ **Ola Ride Analytics Dashboard Project**
-🔹 Analyzed 10,000+ ride transactions using SQL and Excel to uncover booking behavior, revenue trends, and operational performance patterns.
-🔹 Conducted exploratory data analysis to identify cancellation drivers, demand fluctuations, and peak-hour ride activity.
-🔹Designed interactive Power BI dashboards tracking key operational and revenue KPIs for business performance monitoring
----
+### ✨ Ola Ride Analytics Dashboard
+- Analyzed **10,000+ ride transactions** using **SQL** and **Excel** to uncover booking behavior, revenue trends, and operational performance patterns.
+- Conducted exploratory data analysis to identify cancellation drivers, demand fluctuations, and peak-hour ride activity.
+- Designed interactive **Power BI dashboards** to track key operational and revenue KPIs for business performance monitoring.
 
-✨ Blinkit Sales Analysis Dashboard 📊
-📊 Analyzed Blinkit sales data to identify key business trends and performance metrics.
-🧹 Performed data cleaning and transformation to ensure accurate analysis.
-📈 Built an interactive Power BI dashboard with dynamic KPIs and visualizations.
-🛒 Evaluated product category performance, customer ratings, and sales distribution.
-🏪 Analyzed outlet size, location, and establishment impact on sales performance.
-🎯 Generated actionable insights to support data-driven business decisions.
-⚡ Utilized Excel, SQL, and Power BI for end-to-end data analysis and reporting.
-
+### ✨ Blinkit Sales Analysis Dashboard
+- Analyzed Blinkit sales data to identify key business trends and performance metrics.
+- Performed data cleaning and transformation to improve data quality and analysis accuracy.
+- Built an interactive **Power BI dashboard** featuring dynamic KPIs and visualizations.
+- Evaluated product category performance, customer ratings, and sales distribution patterns.
+- Analyzed the impact of outlet size, location, and establishment year on sales performance.
+- Generated actionable insights to support data-driven business decisions.
+- Utilized **Excel, SQL, and Power BI** for end-to-end data analysis and reporting.
 ## 💼 Internships  
 
 - 🧠 **AI Intern – Solitare Infosis Pvt. Ltd (Aug 2022)**  
