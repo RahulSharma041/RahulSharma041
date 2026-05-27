@@ -65,6 +65,12 @@
 - Analyzed the impact of outlet size, location, and establishment year on sales performance.
 - Generated actionable insights to support data-driven business decisions.
 - Utilized **Excel, SQL, and Power BI** for end-to-end data analysis and reporting.
+### ✨ T20 World Cup Cricket Data Analytics Project
+- Built an end-to-end sports analytics solution by collecting T20 World Cup data from ESPN Cricinfo using web scraping.
+- Processed and analyzed player and match data using **Python** and **Pandas** for performance evaluation.
+- Conducted statistical analysis on batting, bowling, and all-rounder metrics to identify top-performing players.
+- Designed interactive **Power BI dashboards** to present player comparisons, team performance, and tournament insights.
+- Generated data-driven recommendations for selecting an optimal T20 cricket squad.
 ## 💼 Internships  
 
 - 🧠 **AI Intern – Solitare Infosis Pvt. Ltd (Aug 2022)**  
