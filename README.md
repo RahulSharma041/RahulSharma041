@@ -26,8 +26,8 @@
 <h1 align="center">👋 Hi, I'm Rahul Sharma</h1>
 <p align="center">
   🎓 B.Tech CSE Student @ Chandigarh University (2023–2026) <br/>
-  💡 Data Science | Machine Learning | Web Development <br/>
-  🌱 Exploring Full-Stack Development & Predictive Modeling
+  💡 Data Science | Machine Learning | Data Analyst <br/>
+  🌱 Predictive Modeling | GitHub Analytics Projects | Power BI Dashboards | SQL Case Studies
 </p>
 
 <!-- 📝 Typing Animation -->
@@ -52,16 +52,25 @@
 🔹 Libraries used: *NumPy, Pandas, scikit-learn, Matplotlib*.  
 🔹 Evaluated with **RMSE & MAPE**.  
 
-✨ **Web Development Projects**  
-🔹 Developed responsive web pages using *HTML, CSS, JavaScript, React.js*.  
-🔹 Hands-on experience with responsive design.  
-
+✨ **Ola Ride Analytics Dashboard Project**
+🔹 Analyzed 10,000+ ride transactions using SQL and Excel to uncover booking behavior, revenue trends, and operational performance patterns.
+🔹 Conducted exploratory data analysis to identify cancellation drivers, demand fluctuations, and peak-hour ride activity.
+🔹Designed interactive Power BI dashboards tracking key operational and revenue KPIs for business performance monitoring
 ---
+
+✨ Blinkit Sales Analysis Dashboard 📊
+📊 Analyzed Blinkit sales data to identify key business trends and performance metrics.
+🧹 Performed data cleaning and transformation to ensure accurate analysis.
+📈 Built an interactive Power BI dashboard with dynamic KPIs and visualizations.
+🛒 Evaluated product category performance, customer ratings, and sales distribution.
+🏪 Analyzed outlet size, location, and establishment impact on sales performance.
+🎯 Generated actionable insights to support data-driven business decisions.
+⚡ Utilized Excel, SQL, and Power BI for end-to-end data analysis and reporting.
 
 ## 💼 Internships  
 
 - 🧠 **AI Intern – Solitare Infosis Pvt. Ltd (Aug 2022)**  
-- 🌐 **Web Dev Intern – Shivah Web Tech Pvt. Ltd (May–Jun 2024)**  
+  
 
 ---
 
